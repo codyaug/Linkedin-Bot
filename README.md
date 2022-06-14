@@ -1,2 +1,2 @@
 # Linkedin-Bot
-The end goal of this bot is to be able to apply to job on indeed without being detected on their server.
+Automate the application process on LinkedIn(Easy Apply)
